@@ -4,7 +4,7 @@ A harp, with lasers.
 ## What is it?
 A theremin is an electronic musical instrument that can be played without physical contact. Here, users can “pluck” the laser beams by breaking them with their fingers. LZR HARP will play various musical notes corresponding to those broken beams.
 
-Watch a demo by clicking here: <br />
+**Watch a demo by clicking here: <br />**
 [![demo video](https://img.youtube.com/vi/8gqOdAnWyWA/0.jpg)](https://youtu.be/8gqOdAnWyWA)
 
 ## How does it work?
